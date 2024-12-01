@@ -1,7 +1,0 @@
-C:\baitapwindown\Lab01-01\Lab01-01\obj\Debug\Lab01-01.csproj.AssemblyReference.cache
-C:\baitapwindown\Lab01-01\Lab01-01\obj\Debug\Lab01-01.csproj.CoreCompileInputs.cache
-C:\baitapwindown\Lab01-01\Lab01-01\bin\Debug\Lab01-01.exe.config
-C:\baitapwindown\Lab01-01\Lab01-01\bin\Debug\Lab01-01.exe
-C:\baitapwindown\Lab01-01\Lab01-01\bin\Debug\Lab01-01.pdb
-C:\baitapwindown\Lab01-01\Lab01-01\obj\Debug\Lab01-01.exe
-C:\baitapwindown\Lab01-01\Lab01-01\obj\Debug\Lab01-01.pdb
