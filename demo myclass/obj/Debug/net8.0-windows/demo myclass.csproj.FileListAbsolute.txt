@@ -1,0 +1,16 @@
+C:\baitapwindown\demo myclass\bin\Debug\net8.0-windows\demo myclass.exe
+C:\baitapwindown\demo myclass\bin\Debug\net8.0-windows\demo myclass.deps.json
+C:\baitapwindown\demo myclass\bin\Debug\net8.0-windows\demo myclass.runtimeconfig.json
+C:\baitapwindown\demo myclass\bin\Debug\net8.0-windows\demo myclass.dll
+C:\baitapwindown\demo myclass\bin\Debug\net8.0-windows\demo myclass.pdb
+C:\baitapwindown\demo myclass\obj\Debug\net8.0-windows\demo_myclass.Form1.resources
+C:\baitapwindown\demo myclass\obj\Debug\net8.0-windows\demo myclass.csproj.GenerateResource.cache
+C:\baitapwindown\demo myclass\obj\Debug\net8.0-windows\demo myclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\baitapwindown\demo myclass\obj\Debug\net8.0-windows\demo myclass.AssemblyInfoInputs.cache
+C:\baitapwindown\demo myclass\obj\Debug\net8.0-windows\demo myclass.AssemblyInfo.cs
+C:\baitapwindown\demo myclass\obj\Debug\net8.0-windows\demo myclass.csproj.CoreCompileInputs.cache
+C:\baitapwindown\demo myclass\obj\Debug\net8.0-windows\demo myclass.dll
+C:\baitapwindown\demo myclass\obj\Debug\net8.0-windows\refint\demo myclass.dll
+C:\baitapwindown\demo myclass\obj\Debug\net8.0-windows\demo myclass.pdb
+C:\baitapwindown\demo myclass\obj\Debug\net8.0-windows\demo myclass.genruntimeconfig.cache
+C:\baitapwindown\demo myclass\obj\Debug\net8.0-windows\ref\demo myclass.dll
