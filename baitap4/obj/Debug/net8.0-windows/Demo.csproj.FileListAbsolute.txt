@@ -1,0 +1,70 @@
+D:\C-sharp\Demo\Demo\obj\Debug\net8.0-windows\Demo.dta_Form.resources
+D:\C-sharp\Demo\Demo\obj\Debug\net8.0-windows\Demo.csproj.GenerateResource.cache
+D:\C-sharp\Demo\Demo\obj\Debug\net8.0-windows\Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp\Demo\Demo\obj\Debug\net8.0-windows\Demo.AssemblyInfoInputs.cache
+D:\C-sharp\Demo\Demo\obj\Debug\net8.0-windows\Demo.AssemblyInfo.cs
+D:\C-sharp\Demo\Demo\obj\Debug\net8.0-windows\Demo.csproj.CoreCompileInputs.cache
+D:\C-sharp\Demo\Demo\bin\Debug\net8.0-windows\Demo.exe
+D:\C-sharp\Demo\Demo\bin\Debug\net8.0-windows\Demo.deps.json
+D:\C-sharp\Demo\Demo\bin\Debug\net8.0-windows\Demo.runtimeconfig.json
+D:\C-sharp\Demo\Demo\bin\Debug\net8.0-windows\Demo.dll
+D:\C-sharp\Demo\Demo\bin\Debug\net8.0-windows\Demo.pdb
+D:\C-sharp\Demo\Demo\obj\Debug\net8.0-windows\Demo.dll
+D:\C-sharp\Demo\Demo\obj\Debug\net8.0-windows\refint\Demo.dll
+D:\C-sharp\Demo\Demo\obj\Debug\net8.0-windows\Demo.pdb
+D:\C-sharp\Demo\Demo\obj\Debug\net8.0-windows\Demo.genruntimeconfig.cache
+D:\C-sharp\Demo\Demo\obj\Debug\net8.0-windows\ref\Demo.dll
+D:\C-sharp\Demo\Demo\obj\Debug\net8.0-windows\Demo.CSNhanVien.resources
+C:\Users\DELL\Downloads\Demo\bin\Debug\net8.0-windows\Demo.exe
+C:\Users\DELL\Downloads\Demo\bin\Debug\net8.0-windows\Demo.deps.json
+C:\Users\DELL\Downloads\Demo\bin\Debug\net8.0-windows\Demo.runtimeconfig.json
+C:\Users\DELL\Downloads\Demo\bin\Debug\net8.0-windows\Demo.dll
+C:\Users\DELL\Downloads\Demo\bin\Debug\net8.0-windows\Demo.pdb
+C:\Users\DELL\Downloads\Demo\obj\Debug\net8.0-windows\Demo.CSNhanVien.resources
+C:\Users\DELL\Downloads\Demo\obj\Debug\net8.0-windows\Demo.dta_Form.resources
+C:\Users\DELL\Downloads\Demo\obj\Debug\net8.0-windows\Demo.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Demo\obj\Debug\net8.0-windows\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\Demo\obj\Debug\net8.0-windows\Demo.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Demo\obj\Debug\net8.0-windows\Demo.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Demo\obj\Debug\net8.0-windows\Demo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Demo\obj\Debug\net8.0-windows\Demo.dll
+C:\Users\DELL\Downloads\Demo\obj\Debug\net8.0-windows\refint\Demo.dll
+C:\Users\DELL\Downloads\Demo\obj\Debug\net8.0-windows\Demo.pdb
+C:\Users\DELL\Downloads\Demo\obj\Debug\net8.0-windows\Demo.genruntimeconfig.cache
+C:\Users\DELL\Downloads\Demo\obj\Debug\net8.0-windows\ref\Demo.dll
+C:\Users\vuduo\OneDrive\Downloads\Demo\bin\Debug\net8.0-windows\Demo.exe
+C:\Users\vuduo\OneDrive\Downloads\Demo\bin\Debug\net8.0-windows\Demo.deps.json
+C:\Users\vuduo\OneDrive\Downloads\Demo\bin\Debug\net8.0-windows\Demo.runtimeconfig.json
+C:\Users\vuduo\OneDrive\Downloads\Demo\bin\Debug\net8.0-windows\Demo.dll
+C:\Users\vuduo\OneDrive\Downloads\Demo\bin\Debug\net8.0-windows\Demo.pdb
+C:\Users\vuduo\OneDrive\Downloads\Demo\obj\Debug\net8.0-windows\Demo.CSNhanVien.resources
+C:\Users\vuduo\OneDrive\Downloads\Demo\obj\Debug\net8.0-windows\Demo.dta_Form.resources
+C:\Users\vuduo\OneDrive\Downloads\Demo\obj\Debug\net8.0-windows\Demo.csproj.GenerateResource.cache
+C:\Users\vuduo\OneDrive\Downloads\Demo\obj\Debug\net8.0-windows\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuduo\OneDrive\Downloads\Demo\obj\Debug\net8.0-windows\Demo.AssemblyInfoInputs.cache
+C:\Users\vuduo\OneDrive\Downloads\Demo\obj\Debug\net8.0-windows\Demo.AssemblyInfo.cs
+C:\Users\vuduo\OneDrive\Downloads\Demo\obj\Debug\net8.0-windows\Demo.csproj.CoreCompileInputs.cache
+C:\Users\vuduo\OneDrive\Downloads\Demo\obj\Debug\net8.0-windows\Demo.dll
+C:\Users\vuduo\OneDrive\Downloads\Demo\obj\Debug\net8.0-windows\refint\Demo.dll
+C:\Users\vuduo\OneDrive\Downloads\Demo\obj\Debug\net8.0-windows\Demo.pdb
+C:\Users\vuduo\OneDrive\Downloads\Demo\obj\Debug\net8.0-windows\Demo.genruntimeconfig.cache
+C:\Users\vuduo\OneDrive\Downloads\Demo\obj\Debug\net8.0-windows\ref\Demo.dll
+D:\C-sharp\Demo\Demo\obj\Debug\net8.0-windows\Demo.sourcelink.json
+C:\Users\Admins\Documents\Zalo Received Files\Demo\bin\Debug\net8.0-windows\Demo.exe
+C:\Users\Admins\Documents\Zalo Received Files\Demo\bin\Debug\net8.0-windows\Demo.deps.json
+C:\Users\Admins\Documents\Zalo Received Files\Demo\bin\Debug\net8.0-windows\Demo.runtimeconfig.json
+C:\Users\Admins\Documents\Zalo Received Files\Demo\bin\Debug\net8.0-windows\Demo.dll
+C:\Users\Admins\Documents\Zalo Received Files\Demo\bin\Debug\net8.0-windows\Demo.pdb
+C:\Users\Admins\Documents\Zalo Received Files\Demo\obj\Debug\net8.0-windows\Demo.CSNhanVien.resources
+C:\Users\Admins\Documents\Zalo Received Files\Demo\obj\Debug\net8.0-windows\Demo.dta_Form.resources
+C:\Users\Admins\Documents\Zalo Received Files\Demo\obj\Debug\net8.0-windows\Demo.csproj.GenerateResource.cache
+C:\Users\Admins\Documents\Zalo Received Files\Demo\obj\Debug\net8.0-windows\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admins\Documents\Zalo Received Files\Demo\obj\Debug\net8.0-windows\Demo.AssemblyInfoInputs.cache
+C:\Users\Admins\Documents\Zalo Received Files\Demo\obj\Debug\net8.0-windows\Demo.AssemblyInfo.cs
+C:\Users\Admins\Documents\Zalo Received Files\Demo\obj\Debug\net8.0-windows\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Admins\Documents\Zalo Received Files\Demo\obj\Debug\net8.0-windows\Demo.sourcelink.json
+C:\Users\Admins\Documents\Zalo Received Files\Demo\obj\Debug\net8.0-windows\Demo.dll
+C:\Users\Admins\Documents\Zalo Received Files\Demo\obj\Debug\net8.0-windows\refint\Demo.dll
+C:\Users\Admins\Documents\Zalo Received Files\Demo\obj\Debug\net8.0-windows\Demo.pdb
+C:\Users\Admins\Documents\Zalo Received Files\Demo\obj\Debug\net8.0-windows\Demo.genruntimeconfig.cache
+C:\Users\Admins\Documents\Zalo Received Files\Demo\obj\Debug\net8.0-windows\ref\Demo.dll
