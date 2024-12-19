@@ -1,0 +1,15 @@
+C:\baitapwindowns\baitap6\baitap6\bin\Debug\baitap6.exe.config
+C:\baitapwindowns\baitap6\baitap6\bin\Debug\baitap6.exe
+C:\baitapwindowns\baitap6\baitap6\bin\Debug\baitap6.pdb
+C:\baitapwindowns\baitap6\baitap6\bin\Debug\EntityFramework.dll
+C:\baitapwindowns\baitap6\baitap6\bin\Debug\EntityFramework.SqlServer.dll
+C:\baitapwindowns\baitap6\baitap6\bin\Debug\EntityFramework.xml
+C:\baitapwindowns\baitap6\baitap6\bin\Debug\EntityFramework.SqlServer.xml
+C:\baitapwindowns\baitap6\baitap6\obj\Debug\baitap6.csproj.AssemblyReference.cache
+C:\baitapwindowns\baitap6\baitap6\obj\Debug\baitap6.Form1.resources
+C:\baitapwindowns\baitap6\baitap6\obj\Debug\baitap6.Properties.Resources.resources
+C:\baitapwindowns\baitap6\baitap6\obj\Debug\baitap6.csproj.GenerateResource.cache
+C:\baitapwindowns\baitap6\baitap6\obj\Debug\baitap6.csproj.CoreCompileInputs.cache
+C:\baitapwindowns\baitap6\baitap6\obj\Debug\baitap6.csproj.Up2Date
+C:\baitapwindowns\baitap6\baitap6\obj\Debug\baitap6.exe
+C:\baitapwindowns\baitap6\baitap6\obj\Debug\baitap6.pdb
